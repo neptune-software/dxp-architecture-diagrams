@@ -67,6 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
  
 ### Third-Party Licenses
 
-This project uses icons from the [SAP BTP Solution Diagram Guidelines](https://github.com/SAP/btp-solution-diagrams) which is licensed under the Apache 2.0 License. For more details see https://github.com/SAP/btp-solution-diagrams/blob/main/LICENSE
-
-Copyright 2024 SAP SE or an SAP affiliate company and sap-btp-solution-diagrams contributors.
+This project uses icons from the [SAP BTP Solution Diagram Guidelines](https://github.com/SAP/btp-solution-diagrams) which is licensed under the Apache 2.0 License. For more details see [LICENSE](./LICENSE) file.
