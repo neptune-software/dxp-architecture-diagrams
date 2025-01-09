@@ -19,26 +19,24 @@ Feel free to explore, contribute, or use these diagrams to support your work!
 ## Folder structure
 
 ```
-
 ├── LICENSE
 ├── Neptune DXP.xml
 ├── README.md
 ├── assets
 │   └── import.png
-├── capabilities                                            # Capablities mapping
+├── capabilities                                                    # Capablities mapping
 │   ├── technical mapping.drawio
 │   └── value mapping.drawio
-├── examples                                                # Example Architecture diagrams
-│   ├── full dxp - reference architecture.drawio
-│   ├── full dxp - side by side extension scenario.drawio
-│   ├── open edition - email with PDF attachment.drawio
-│   ├── open edition - prototype to full app.drawio
-│   ├── open edition - reference architecture.drawio
-│   ├── open edition - user experience.drawio
-│   ├── sap edition - offline scenario.drawio
-│   └── sap edition - sap btp mobility.drawio
-└── library                                                 # Draw.io Library with Neptune DXP icons
-    └── Neptune DXP.xml                                 
+├── examples                                                        # Example Architecture diagrams
+│   ├── 1 -  full dxp - reference architecture.drawio
+│   ├── 2 - open edition - reference architecture.drawio
+│   ├── 3 - open edition - prototype to full app.drawio
+│   ├── 4 - open edition - email with PDF attachment.drawio
+│   ├── 5 - open edition - user experience.drawio
+│   ├── 6 - sap edition - offline scenario.drawio
+│   └── 7 - full dxp - side by side extension scenario.drawio
+└── library                                                         # Draw.io Library with Neptune DXP icons
+    └── Neptune DXP.xml                               
 ```                                                                                                                                                                                                                                               
 
 ## Library Setup
